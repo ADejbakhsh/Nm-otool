@@ -1,5 +1,5 @@
 [package]
-name = "Nm-otool"
+name = "nm-otool"
 version = "0.1.0"
 authors = ["Baptiste Fraikin <ba.fraikin@gmail.com>", "Arman Dejbakhsh <arman@dejbakhsh.fr>"]
 edition = "2018"
